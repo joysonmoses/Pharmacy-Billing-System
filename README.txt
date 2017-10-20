@@ -1,0 +1,1 @@
+This is a Pharmacy Billing System project done using PHP.
